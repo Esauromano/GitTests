@@ -2,7 +2,7 @@
 
 
 
-var num=1;
+let num=1; //A somehow not so correct change
 
 
 
