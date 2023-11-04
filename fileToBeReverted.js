@@ -3,9 +3,7 @@
 
 
 
-if (number===1) {//Somebody else reverted last change manually 
-
-
+if (number===1) {//ok this is good
 //I write here to make more changes
 console.log(number);
 }
