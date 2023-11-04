@@ -1,9 +1,10 @@
 ///ES5 style code to be then reverted
+//A branch will be born from this one
 
 
 
-let num=1; //A somehow not so correct change
+var number=1; //Somebody else reverted last change manually 
 
 
 
-console.log(num);
+console.log(number);
